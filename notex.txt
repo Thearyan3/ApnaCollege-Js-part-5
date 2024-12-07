@@ -3,3 +3,7 @@ JS Objects Literals
 
 property => (key, value) pair
 Objects are a collection of properties
+
+Get Values 
+--> JS automatically converts objects keys to strings.
+Even if we made the number as a key, the number will be converted to string.
