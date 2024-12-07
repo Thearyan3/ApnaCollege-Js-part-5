@@ -16,3 +16,22 @@ const item = {
 };
 
 console.log(item);
+
+// Task --> Thread/Twitter Post 
+// Create an object literal for the properties of thread/twitter post which includes- (i).username (ii).content (iii). likes (iv). reposts (v). tags
+
+
+const post = {
+    username: "Aryan",
+    content: "This is my #firstPost",
+    likes: 15,
+    reposts: 2,
+    tags: ["@aryan2", "@delta"]
+};
+console.log(post);
+
+//Get Values 
+let student = {
+    name: "shradha",
+    marks: 95
+};
