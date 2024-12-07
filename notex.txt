@@ -1,0 +1,5 @@
+JS Objects Literals
+--> Used to store keyed collection & complex entities.
+
+property => (key, value) pair
+Objects are a collection of properties
