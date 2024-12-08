@@ -11,11 +11,16 @@ while(true){
         console.log("User quit");
         break;
     }
-    
+
     if(guess == random){
-        console.log("Your guess was right. Congrats!!");
+        console.log("Your guess was right. Congrats!! random number was : ",random);
         break;
-    }else{
-        guess = prompt("Please Guess Again :");
+    }else if(guess > random){
+        guess = prompt("Guess is greater than the number. Please Enter a smaller number.");
+    }else if(guess < random){
+        guess = prompt("Guess is smaller than the number. Please Enter a greater number.");
     }
+    // else{
+    //     guess = prompt("Please Guess Again :");
+    // }
 }
