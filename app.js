@@ -45,9 +45,25 @@
 // };
 
 // Add/Update values 
-const student = {
-    name: "Aryan", 
-    age: 20,
-    marks: 95,
-    City: "Meerut"
-};
+// const student = {
+//     name: "Aryan", 
+//     age: 20,
+//     marks: 95,
+//     City: "Meerut"
+// };
+
+// Nested Objects - Objects of Objects 
+// const classInfo = {
+//     aman: {
+//         grade: "A+",
+//         city: "Delhi"
+//     },
+//     aryan: {
+//         grade: "O",
+//         city: "Pune"
+//     },
+//     karan: {
+//         grade: "A", 
+//         city: "Mumbai"
+//     }
+// };
