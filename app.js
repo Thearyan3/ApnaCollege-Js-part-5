@@ -36,10 +36,18 @@
 //     marks: 95
 // };
 
-const obj = {
-    1: "a",
-    2: "b",
-    true: "c",
-    null: "d",
-    undefined: "e"
+// const obj = {
+//     1: "a",
+//     2: "b",
+//     true: "c",
+//     null: "d",
+//     undefined: "e"
+// };
+
+// Add/Update values 
+const student = {
+    name: "Aryan", 
+    age: 20,
+    marks: 95,
+    City: "Meerut"
 };
