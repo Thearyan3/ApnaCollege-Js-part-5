@@ -86,3 +86,11 @@
 //         city: "Pune"
 //     }
 // ];
+
+// Q1. Generate a random number between 1 to 100.
+// let num1to100 = Math.floor( Math.random() * 100 + 1);
+// console.log(num1to100);
+
+// // Q1. Generate a random number between 1 to 5.
+// let num1to5 = Math.floor( Math.random() * 5 + 1);
+// console.log(num1to5);
