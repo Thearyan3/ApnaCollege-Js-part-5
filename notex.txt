@@ -7,3 +7,11 @@ Objects are a collection of properties
 Get Values 
 --> JS automatically converts objects keys to strings.
 Even if we made the number as a key, the number will be converted to string.
+
+
+Math Ojbect - 
+1. Math.random() is a method jo random numbers generate krta h 0 to 1 ke beech me lekin kabhi 1 nhi generate krta mtlb 1 exclude hota h.
+2. Math.floor() is a method jo kisi bhi number ka roundoff krta h lower value ki taraf. For Ex: 5.4 or 5.9 indono values ko ye 5 ke equal krdega. Isiliye floor naam h iska kuki ye zameen ki taraf roundoff krta h mtlb neeche ki taraf.
+3. Math.ceil() is exact opposite of Math.floor().
+
+Ye teeno hi methods Math naam ke Object ke h aur bhot useful h.

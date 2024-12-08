@@ -69,20 +69,20 @@
 // };
 
 // Array Object
-const classInfo = [
-    {
-        name: "Aryan",
-        grade: "A+",
-        city: "Meerut"
-    },
-    {
-        name: "aman",
-        grade: "O",
-        city: "Delhi"
-    },
-    {
-        name: "Shradha",
-        grade: "A",
-        city: "Pune"
-    }
-];
+// const classInfo = [
+//     {
+//         name: "Aryan",
+//         grade: "A+",
+//         city: "Meerut"
+//     },
+//     {
+//         name: "aman",
+//         grade: "O",
+//         city: "Delhi"
+//     },
+//     {
+//         name: "Shradha",
+//         grade: "A",
+//         city: "Pune"
+//     }
+// ];
